@@ -1,13 +1,13 @@
 ## 📁 Projects
--[DamDda](https://github.com/mhee167/DamDda_BE) - K-Culture 제작자-소비자 글로벌 크라우드 펀딩 플랫폼
+-[DamDda](https://github.com/mhee167/DamDda_BE) : K-Culture 제작자-소비자 글로벌 크라우드 펀딩 플랫폼
 
--[BuddyHeal](https://github.com/mhee167/BuddyHeal) - 미취학 아동 질병 분석 생성형 AI 웹 지원 서비스 
+-[BuddyHeal](https://github.com/mhee167/BuddyHeal) : 미취학 아동 질병 분석 생성형 AI 웹 지원 서비스 
 
 ## 🔨 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ## 💌 Contact
 Email : mhee116677@gmail.com
 Resume : 
