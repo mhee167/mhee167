@@ -11,7 +11,7 @@
 ## 💌 Contact
 Email : mhee116677@gmail.com
 
-Resume : https://vigorous-roundworm-133.notion.site/18572d5e5e8980b58cdde5ce86d1912c
+Resume : https://vigorous-roundworm-133.notion.site/18772d5e5e8980d2b058df1e0cab4354?pvs=4
 <!--
 **mhee167/mhee167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
